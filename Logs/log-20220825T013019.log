@@ -1,0 +1,178 @@
+01:30:20 INFO manager.ApplicationManager - Test starts on Chrome Driver
+01:30:28 INFO tests.TestBase - Starts test ---> addNewContactTest
+01:30:28 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:31 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:31 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:30:31 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]
+01:30:32 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]is found
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']is found
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']is found
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']
+01:30:34 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']is found
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']is found
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']is found
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']
+01:30:35 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']is found
+01:30:36 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']
+01:30:36 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']is found
+01:30:36 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']
+01:30:36 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']is found
+01:30:36 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451834']
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451834']is found
+01:30:37 INFO tests.TestBase - *****************************************
+01:30:37 INFO tests.TestBase - Starts test ---> addNewContactTest
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']is found
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']is found
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']is found
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']
+01:30:37 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']is found
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']is found
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']is found
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']
+01:30:38 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']is found
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']is found
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451837']
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451837']is found
+01:30:39 INFO tests.TestBase - *****************************************
+01:30:39 INFO tests.TestBase - Starts test ---> addNewContactTest
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']
+01:30:39 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']is found
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']is found
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']is found
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']
+01:30:40 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']is found
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']is found
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']is found
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']is found
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']
+01:30:41 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']is found
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451839']
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451839']is found
+01:30:42 INFO tests.TestBase - *****************************************
+01:30:42 INFO tests.TestBase - Starts test ---> addNewContactTest
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.xpath: //a[.='ADD']is found
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Name']is found
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']
+01:30:42 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Last Name']is found
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Phone']is found
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='email']is found
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']
+01:30:43 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='Address']is found
+01:30:44 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']
+01:30:44 INFO manager.MyListener - Start searching element by ---> By.cssSelector: [placeholder='description']is found
+01:30:44 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']
+01:30:44 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Save']is found
+01:30:44 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451842']
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //h3[.='123451842']is found
+01:30:45 INFO tests.TestBase - *****************************************
+01:30:45 INFO tests.TestBase - Starts test ---> loginPositiveTest
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:30:45 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:30:46 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:30:46 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]
+01:30:46 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]is found
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:49 INFO tests.TestBase - *****************************************
+01:30:49 INFO tests.TestBase - Starts test ---> loginTestModel
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:30:49 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:30:50 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:30:50 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:30:50 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]
+01:30:50 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]is found
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:53 INFO tests.TestBase - *****************************************
+01:30:53 INFO tests.TestBase - Starts test ---> registrationNegativeTest
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:30:53 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:30:54 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:30:54 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:30:54 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]
+01:30:54 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]is found
+01:30:55 INFO tests.TestBase - *****************************************
+01:30:55 INFO tests.TestBase - Starts test ---> registrationPositiveTest
+01:30:55 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:30:58 INFO tests.TestBase - registrationPositiveTest starts with: name1858@mail.com & $Name12345
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:30:58 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:30:59 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]
+01:30:59 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]is found
+01:30:59 INFO manager.MyListener - Start searching element by ---> By.xpath: //button
+01:31:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //buttonis found
+01:31:00 INFO tests.TestBase - *****************************************
+01:31:00 INFO tests.TestBase - Starts test ---> removeAllContacts
+01:31:00 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:31:00 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:31:00 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-page_message__2qafk h1
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-page_message__2qafk h1is found
+01:31:03 INFO tests.TestBase - *****************************************
+01:31:03 INFO tests.TestBase - Starts test ---> removeOneContact
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:31:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:31:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:31:06 INFO manager.HelperContact - Number of contacts before : 0
+01:31:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:31:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:31:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:31:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:31:12 INFO manager.HelperContact - Number of contacts after : 0
+01:31:12 INFO tests.TestBase - *****************************************

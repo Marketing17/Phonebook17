@@ -1,0 +1,346 @@
+01:20:51 INFO manager.ApplicationManager - Test starts on Chrome Driver
+01:20:58 INFO tests.TestBase - Starts test ---> removeAllContacts
+01:20:58 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+01:21:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+01:21:02 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]
+01:21:02 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[1]is found
+01:21:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:03 INFO manager.HelperContact - Number of contacts before : 16
+01:21:03 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:04 INFO manager.HelperContact - The removed phone number is 123452724
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:04 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:05 INFO manager.HelperContact - Number of contacts after : 15
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:05 INFO manager.HelperContact - Number of contacts before : 15
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:05 INFO manager.HelperContact - The removed phone number is 123452731
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:05 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:06 INFO manager.HelperContact - Number of contacts after : 14
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:06 INFO manager.HelperContact - Number of contacts before : 14
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:06 INFO manager.HelperContact - The removed phone number is 123452734
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:06 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:07 INFO manager.HelperContact - Number of contacts after : 14
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:07 INFO manager.HelperContact - Number of contacts before : 13
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:07 INFO manager.HelperContact - The removed phone number is 123452738
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:07 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:08 INFO manager.HelperContact - Number of contacts after : 13
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:08 INFO manager.HelperContact - Number of contacts before : 12
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:08 INFO manager.HelperContact - The removed phone number is 123452930
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:08 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:09 INFO manager.HelperContact - Number of contacts after : 12
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:09 INFO manager.HelperContact - Number of contacts before : 12
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:09 INFO manager.HelperContact - The removed phone number is 123452933
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:09 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:10 INFO manager.HelperContact - Number of contacts after : 11
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:10 INFO manager.HelperContact - Number of contacts before : 11
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:10 INFO manager.HelperContact - The removed phone number is 123452933
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:10 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:11 INFO manager.HelperContact - Number of contacts after : 10
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:11 INFO manager.HelperContact - Number of contacts before : 10
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:11 INFO manager.HelperContact - The removed phone number is 123452937
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:11 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:12 INFO manager.HelperContact - Number of contacts after : 9
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:12 INFO manager.HelperContact - Number of contacts before : 9
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:12 INFO manager.HelperContact - The removed phone number is 123452940
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:12 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:13 INFO manager.HelperContact - Number of contacts after : 9
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:13 INFO manager.HelperContact - Number of contacts before : 9
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:13 INFO manager.HelperContact - The removed phone number is 123452940
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:13 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:14 INFO manager.HelperContact - Number of contacts after : 8
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:14 INFO manager.HelperContact - Number of contacts before : 8
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:14 INFO manager.HelperContact - The removed phone number is 123453046
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:14 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:15 INFO manager.HelperContact - Number of contacts after : 6
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:15 INFO manager.HelperContact - Number of contacts before : 6
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:15 INFO manager.HelperContact - The removed phone number is 123453054
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:15 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:16 INFO manager.HelperContact - Number of contacts after : 5
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:16 INFO manager.HelperContact - Number of contacts before : 5
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:16 INFO manager.HelperContact - The removed phone number is 123453058
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:16 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:17 INFO manager.HelperContact - Number of contacts after : 5
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:17 INFO manager.HelperContact - Number of contacts before : 5
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:17 INFO manager.HelperContact - The removed phone number is 12345554
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:17 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:18 INFO manager.HelperContact - Number of contacts after : 4
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:18 INFO manager.HelperContact - Number of contacts before : 4
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:18 INFO manager.HelperContact - The removed phone number is 12345558
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:18 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:19 INFO manager.HelperContact - Number of contacts after : 3
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:19 INFO manager.HelperContact - Number of contacts before : 3
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:19 INFO manager.HelperContact - The removed phone number is 12345558
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:19 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:20 INFO manager.HelperContact - Number of contacts after : 2
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:20 INFO manager.HelperContact - Number of contacts before : 2
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:20 INFO manager.HelperContact - The removed phone number is 12345562
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:20 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:21 INFO manager.HelperContact - Number of contacts after : 2
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:21 INFO manager.HelperContact - Number of contacts before : 2
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:21 INFO manager.HelperContact - The removed phone number is 12345562
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[.='Remove']is found
+01:21:21 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:22 INFO manager.HelperContact - Number of contacts after : 1
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:22 INFO manager.HelperContact - Number of contacts before : 1
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIMis found
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3
+01:21:22 INFO manager.MyListener - Start searching element by ---> By.cssSelector: .contact-item_card__2SOIM h3is found
+01:21:22 INFO manager.MyListener - SOMETHING WENT WRONG!!!
+01:21:22 INFO manager.MyListener - stale element reference: element is not attached to the page document
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BOJHOAI', ip: '192.168.193.92', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\MARKGR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58120}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2e13972f1bee72eca270f7d941d3c19
+01:21:22 INFO manager.MyListener - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BOJHOAI', ip: '192.168.193.92', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\MARKGR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58120}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2e13972f1bee72eca270f7d941d3c19
+01:21:23 INFO manager.MyListener - This is link for screenshot with error ---> src/test/screenshots/screenshot-1282.png
+01:21:23 INFO tests.TestBase - *****************************************

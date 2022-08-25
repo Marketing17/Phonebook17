@@ -1,0 +1,14 @@
+18:24:29 INFO manager.ApplicationManager - Test starts on Chrome Driver
+18:24:57 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: (//*[text()='Sign Out'])is found
+18:25:00 INFO tests.TestBase - registrationPositiveTest starts with: name1500markgreyserman@gmail.com & Gmail.com_17
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //*[text()='LOGIN']is found
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[1]is found
+18:25:00 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]
+18:25:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //input[2]is found
+18:25:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]
+18:25:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //button[2]is found
+18:25:01 INFO manager.MyListener - Start searching element by ---> By.xpath: //button
+18:25:02 INFO manager.MyListener - Start searching element by ---> By.xpath: //buttonis found
